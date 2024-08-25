@@ -31,10 +31,14 @@ Every user story will have a unique id that will be used as a part of pushing ch
 ### 3. Definition of done
 The dod is basically when the user story is completed. there wont be any testing done other than user testing.
 
-### 4. Resouces used
+### 4. Resouces used / interesting findings 
+[datatables](https://datatables.net/manual/)
+
+[markdown](https://www.markdownguide.org/basic-syntax/)
 
 To complete this project there are a number of resource that were used. poutline below.
 
+Basically with the drama I had at the beginning with git I just decided to work with master branch directly for now.
 us-001_initial_layout
 Create the layout for the page to include a navigation bar at the top and body which is formated without any margins
 

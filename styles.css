@@ -8,14 +8,16 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
-  background-color: black;
-  color: white;
-  padding: 5%;
+  background-color: ivory;
+  color: black;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 15px;
 }
 
 #nav ul {
-  color: white;
+  color: black;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -29,7 +31,6 @@ body {
   flex-direction: row;
   justify-content: center;
   padding: 15px;
-  /* border: 5px solid black; Sets a 5px solid black border */
 }
 .selectorContainer {
   display: flex;
@@ -43,7 +44,26 @@ body {
   background-color: wheat;
 
 }
+.table-container {
+    display: flex;           /* Enable Flexbox on the container */
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically (optional) */
+           /* Full viewport height (optional) */
+  }
 #listStyles{
     font-size: 20px;
     font-weight: bold;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+   justify-content: center;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
 }
