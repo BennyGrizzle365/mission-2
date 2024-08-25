@@ -36,8 +36,10 @@ The dod is basically when the user story is completed. there wont be any testing
 To complete this project there are a number of resource that were used. poutline below.
 
 us-001_initial_layout
-Create the layout for the page to include a navigation bar at the top and body which is formated without any margings
-us-002_bus_routes
+Create the layout for the page to include a navigation bar at the top and body which is formated without any margins
+
+us-002_bus_route_objects
 Create a list of bus routes. the bus routes are matched to a zone.
-us-003_Bus_Schema
+
+us-003_Bus_objects
 create the bus timetable
