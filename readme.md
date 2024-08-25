@@ -6,20 +6,21 @@
 4. Resouces used
 
 ### 1. Git Strategy
+Basically with the drama I had at the beginning with git I just decided to work with master branch directly for now.
+
 A git repo has been created, simply named mission-02.
 
-In this project the main branch wont be used for creating and pushing features and completed items.
+~~In this project the main branch wont be used for creating and pushing features and completed items.~~
 
-Any work that is pushed to the mission-02 repo will be identifiable by its unique user story number and branch name.
-
+~~Any work that is pushed to the mission-02 repo will be identifiable by its unique user story number and branch name.~~
+~~
 example:
 
- _001-Create-NavBar-Section_
+ ~~_001-Create-NavBar-Section_~~
 
- _002-Create-NavBar-Buttons_
+ ~~_002-Create-NavBar-Buttons_~~
 
- At the beginning of a new work item, a new branch will need to be created off the latest main branch. This will ensure the local version is always upto date with main branch  which should prevent conflicts arising.
-
+ ~~At the beginning of a new work item, a new branch will need to be created off the latest main branch. This will ensure the local version is always upto date with main branch  which should prevent conflicts arising.~~
 ### 2. Feature Management
 
 The development of the application will be based on user stories. The user stories are mostly fixed, however if things are making the scope creep then the user story will be reassessed.
@@ -38,7 +39,6 @@ The dod is basically when the user story is completed. there wont be any testing
 
 To complete this project there are a number of resource that were used. poutline below.
 
-Basically with the drama I had at the beginning with git I just decided to work with master branch directly for now.
 us-001_initial_layout
 Create the layout for the page to include a navigation bar at the top and body which is formated without any margins
 
