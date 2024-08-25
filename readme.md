@@ -41,5 +41,22 @@ Create the layout for the page to include a navigation bar at the top and body w
 us-002_bus_route_objects
 Create a list of bus routes. the bus routes are matched to a zone.
 
+```js
+const busRoutes = [
+  {
+    routeId: 1,
+    routeName: "Downtown Loop",
+    stops: [
+      {
+        stopName: "Central Station",
+        times: ["08:00 AM", "",...],
+      },
+      { 
+        stopName: "Main Street",
+        times: ["08:10 AM",""...] },
+    ],
+  },
+]
+
 us-003_Bus_objects
 create the bus timetable
